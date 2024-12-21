@@ -25,3 +25,7 @@ Irobot Privacy Policy
 
 7. **Contact Information**  
    If you have any questions about this Privacy Policy, you can contact the bot’s developer via the GitHub repository.
+   
+8. **User Conversation Storage**
+User conversations are only used for generating responses and are not utilized for any other purposes.
+
