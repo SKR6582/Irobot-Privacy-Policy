@@ -1,31 +1,85 @@
-# Irobot-Privacy-Policy
 Irobot Privacy Policy
 
----
+Iro봇 개인정보 처리방침
 
-**Discord Bot Privacy Policy**
+⸻
 
-1. **Information We Collect**  
-   This bot does not collect, store, or process any personal information from users. We do not track or record any data, including but not limited to usernames, messages, or server activities.
+Discord Bot Privacy Policy
+디스코드 봇 개인정보 처리방침
 
-2. **Data Usage**  
-   The bot operates in real-time and only processes data necessary for its functionality, such as responding to commands or automating tasks. Once a command is processed, no data is retained.
+⸻
 
-3. **Third-Party Services**  
-   This bot does not use or share any user data with third-party services. However, Discord itself may collect data in accordance with their [Privacy Policy](https://discord.com/privacy).
+1. Information We Collect
 
-4. **User Responsibility**  
-   Users should refrain from sharing personal information while interacting with the bot. We are not responsible for any personal information shared in public or private channels.
+이 봇은 기능 유지 및 시스템 안정성을 위해 다음 정보를 수집합니다:
+	•	사용자 ID 및 이름
+	•	메시지 내용 및 전송 시각
+	•	첨부파일(이미지, 문서 등)
+	•	사용자가 입력하거나 AI가 자동으로 수집한 커스텀 데이터
 
-5. **Data Security**  
-   Since no personal data is collected or stored, there is no risk of data breaches associated with this bot. Discord's platform security measures handle all other aspects of data protection.
+⸻
 
-6. **Changes to Privacy Policy**  
-   We may update this Privacy Policy at any time without prior notice. Any changes will be effective immediately, and continued use of the bot will imply acceptance of the updated policy.
+2. Purpose of Data Collection
 
-7. **Contact Information**  
-   If you have any questions about this Privacy Policy, you can contact the bot’s developer via the GitHub repository.
-   
-8. **User Conversation Storage**
-User conversations are only used for generating responses and are not utilized for any other purposes.
+수집된 정보는 다음 목적에 한해 사용됩니다:
+	•	검열 및 부적절한 콘텐츠 필터링
+	•	시스템 오류 분석 및 디버깅
+	•	대화 영속성 유지 및 사용자 맞춤형 기능 제공
+	•	봇의 품질 개선 및 사용자 경험 향상
 
+⸻
+
+3. Data Storage and Retention
+	•	대화 기록(메시지, 첨부파일 등)은 영구적으로 저장될 수 있습니다.
+	•	커스텀 데이터는 사용자 입력 또는 AI 시스템의 자동 수집에 의해 저장됩니다.
+	•	저장된 데이터는 개발자 및 자동화된 시스템 프로세스만 접근할 수 있습니다.
+
+⸻
+
+4. Data Usage
+	•	수집된 데이터는 제3자에게 판매, 공유, 제공되지 않습니다.
+	•	데이터는 내부 시스템 모니터링, 검열, 기능 개선 목적으로만 사용됩니다.
+
+⸻
+
+5. Third-Party Services
+
+이 봇은 외부 제3자 서비스와 연동하여 데이터를 수집하지 않습니다.
+단, Discord 플랫폼 자체는 Discord 개인정보 보호정책에 따라 데이터를 처리할 수 있습니다.
+
+⸻
+
+6. Data Security
+
+저장된 모든 데이터는 표준 암호화 및 서버 보안 절차를 통해 보호됩니다.
+무단 접근을 방지하기 위해 접근 로그 및 감사 내역을 유지합니다.
+
+⸻
+
+7. User Responsibility
+
+사용자는 대화 중 개인 정보나 민감한 정보를 공유하지 않도록 주의해야 합니다.
+사용자가 자발적으로 공개한 정보에 대해서는 책임을 지지 않습니다.
+
+⸻
+
+8. Changes to Privacy Policy
+
+본 개인정보 처리방침은 필요에 따라 변경될 수 있습니다.
+정책 변경 이후에도 봇을 계속 사용할 경우, 변경된 정책에 동의한 것으로 간주됩니다.
+
+⸻
+
+9. Contact Information
+
+이 개인정보 처리방침에 대한 문의는 공식 GitHub 저장소 또는 지원 서버를 통해 개발자에게 연락할 수 있습니다.
+
+⸻
+
+Summary 요약
+
+Irobot은 사용자 ID, 이름, 메시지, 첨부파일, 커스텀 AI 데이터를 수집하여
+검열, 오류 해결, 대화 영속성 유지를 위해 사용합니다.
+수집된 데이터는 외부로 공유되지 않으며 내부 시스템에서만 안전하게 관리됩니다.
+
+Last Update [2025-10-08] by Seungjun OH
